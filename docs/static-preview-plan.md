@@ -49,15 +49,10 @@ Replace the remote URL with the real repository URL:
 
 ```powershell
 git remote add origin NEEDS_CONFIRMATION
-git push -u origin master
-```
-
-If the GitHub repository uses `main` instead of `master`:
-
-```powershell
-git branch -M main
 git push -u origin main
 ```
+
+The local repository now uses `main`.
 
 ## Preview Review Notes
 

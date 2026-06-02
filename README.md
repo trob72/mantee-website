@@ -70,6 +70,7 @@ The repository includes a GitHub Pages workflow at `.github/workflows/pages.yml`
 When this repository is pushed to GitHub and Pages is configured to use GitHub Actions, the workflow publishes the `prototype/` folder as a static review preview.
 
 See `docs/static-preview-plan.md` for setup notes.
+See `docs/publishing-checklist.md` for the remaining publishing steps.
 
 ## Important Content Rule
 
@@ -87,6 +88,7 @@ This includes fees, schedules, rules, ordinances, names, phone numbers, email ad
 - `docs/content-inventory.csv` - starter content inventory with confirmation status
 - `docs/decision-log.md` - project decisions, approval status, and open questions
 - `docs/needs-confirmation-register.csv` - working register of facts that must be confirmed before publication
+- `docs/publishing-checklist.md` - GitHub repository and Pages publishing checklist
 - `docs/requirements-summary.md` - project goals, constraints, and requirements
 - `docs/records-conventions.md` - naming and publishing conventions for public records
 - `docs/style-guide.md` - visual and editorial style direction
