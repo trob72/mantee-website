@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Local photo placeholder</title>
+  <desc id="desc">Placeholder for approved Town of Mantee local photography.</desc>
+  <rect width="1200" height="720" fill="#f8f4ea"/>
+  <rect x="36" y="36" width="1128" height="648" fill="#ffffff" stroke="#d8d1c3" stroke-width="8"/>
+  <path d="M90 590 350 330l155 155 105-105 500 210" fill="none" stroke="#4e6f58" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="895" cy="190" r="70" fill="#f4d28f" stroke="#b9822b" stroke-width="8"/>
+  <text x="600" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="56" font-weight="700" fill="#17324d">Local Photo Placeholder</text>
+  <text x="600" y="394" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" fill="#5f666d">Replace with approved Town of Mantee photography</text>
+</svg>

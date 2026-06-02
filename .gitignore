@@ -1,0 +1,15 @@
+# Local system files
+.DS_Store
+Thumbs.db
+
+# Editor and workspace noise
+.vscode/
+.idea/
+
+# Dependency/build artifacts if added later
+node_modules/
+dist/
+build/
+
+# Logs
+*.log
