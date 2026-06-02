@@ -63,6 +63,14 @@ python -m http.server 8088 --bind 127.0.0.1
 
 Then open `http://127.0.0.1:8088/`.
 
+## Static Preview Deployment
+
+The repository includes a GitHub Pages workflow at `.github/workflows/pages.yml`.
+
+When this repository is pushed to GitHub and Pages is configured to use GitHub Actions, the workflow publishes the `prototype/` folder as a static review preview.
+
+See `docs/static-preview-plan.md` for setup notes.
+
 ## Important Content Rule
 
 Do not publish final public information until the Town confirms it. Unknown items should remain clearly marked as:
