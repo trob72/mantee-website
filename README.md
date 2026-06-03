@@ -110,3 +110,4 @@ This includes fees, schedules, rules, ordinances, names, phone numbers, email ad
 
 - `board-review/board-brief-v1.md` - short board-facing project brief
 - `board-review/confirmation-packet-v1.md` - review packet for confirming facts, decisions, and launch scope
+- `board-review/header-logo-concepts-v1.md` - discussion notes for logo/header direction concepts
