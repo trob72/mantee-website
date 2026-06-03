@@ -26,3 +26,14 @@ http://127.0.0.1:8088/
 - Local photography is represented by placeholder images.
 - The prototype preserves the intended navigation and page structure.
 - The future production site is expected to be managed WordPress.
+
+## Photo Replacement
+
+Image slots live in `assets/images/`.
+
+See:
+
+- `assets/images/README.md`
+- `assets/images/photo-manifest.csv`
+
+To update the look without editing HTML, replace the named placeholder SVG files with approved web-ready photo files using the same filenames, or update the HTML references to point at `.jpg` or `.webp` files.

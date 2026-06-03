@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Community backdrop placeholder</title>
+  <desc id="desc">Placeholder for approved community photography.</desc>
+  <rect width="1600" height="900" fill="#4e6f58"/>
+  <rect x="72" y="72" width="1456" height="756" fill="#f8f4ea" opacity="0.9"/>
+  <circle cx="390" cy="330" r="120" fill="#f4d28f" stroke="#b9822b" stroke-width="12"/>
+  <path d="M120 720 430 455l190 135 160-170 255 210 150-120 300 210" fill="none" stroke="#17324d" stroke-width="36" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M0 740h1600" stroke="#17324d" stroke-width="80" opacity="0.14"/>
+</svg>

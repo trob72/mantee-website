@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Town backdrop placeholder</title>
+  <desc id="desc">Placeholder for an approved wide Town of Mantee backdrop photograph.</desc>
+  <rect width="1600" height="900" fill="#17324d"/>
+  <rect x="72" y="72" width="1456" height="756" fill="#f8f4ea" opacity="0.92"/>
+  <path d="M120 690 400 410l160 160 120-120 220 220 170-170 410 190" fill="none" stroke="#4e6f58" stroke-width="36" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="1240" cy="250" r="96" fill="#f4d28f" stroke="#b9822b" stroke-width="12"/>
+  <path d="M0 740h1600" stroke="#17324d" stroke-width="80" opacity="0.14"/>
+</svg>

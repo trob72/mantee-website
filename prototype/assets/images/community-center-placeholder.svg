@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Community Center photo placeholder</title>
+  <desc id="desc">Placeholder for an approved photograph of the Community Center.</desc>
+  <rect width="1200" height="720" fill="#f8f4ea"/>
+  <rect x="48" y="48" width="1104" height="624" fill="#ffffff" stroke="#d8d1c3" stroke-width="8"/>
+  <rect x="270" y="250" width="660" height="310" fill="#d8d1c3" stroke="#17324d" stroke-width="16"/>
+  <path d="M235 250h730L600 120z" fill="#4e6f58"/>
+  <text x="600" y="625" text-anchor="middle" font-family="Arial, sans-serif" font-size="48" font-weight="700" fill="#17324d">Community Center</text>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Mantee Depot photo placeholder</title>
+  <desc id="desc">Placeholder for an approved photograph of Mantee Depot.</desc>
+  <rect width="1200" height="720" fill="#f8f4ea"/>
+  <rect x="48" y="48" width="1104" height="624" fill="#ffffff" stroke="#d8d1c3" stroke-width="8"/>
+  <rect x="250" y="315" width="700" height="230" fill="#d8d1c3" stroke="#17324d" stroke-width="16"/>
+  <path d="M210 320 600 145l390 175" fill="none" stroke="#4e6f58" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="600" y="610" text-anchor="middle" font-family="Arial, sans-serif" font-size="48" font-weight="700" fill="#17324d">Mantee Depot</text>
+</svg>

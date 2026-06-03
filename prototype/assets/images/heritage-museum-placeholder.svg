@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Mantee Heritage and History Museum photo placeholder</title>
+  <desc id="desc">Placeholder for an approved photograph of the Mantee Heritage and History Museum.</desc>
+  <rect width="1200" height="720" fill="#f8f4ea"/>
+  <rect x="48" y="48" width="1104" height="624" fill="#ffffff" stroke="#d8d1c3" stroke-width="8"/>
+  <rect x="315" y="210" width="570" height="350" fill="#d8d1c3" stroke="#17324d" stroke-width="16"/>
+  <path d="M315 210h570l-100-95H415z" fill="#4e6f58"/>
+  <text x="600" y="620" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#17324d">Heritage &amp; History Museum</text>
+</svg>

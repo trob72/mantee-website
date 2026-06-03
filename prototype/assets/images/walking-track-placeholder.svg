@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Walking Track photo placeholder</title>
+  <desc id="desc">Placeholder for an approved photograph of the walking track.</desc>
+  <rect width="1200" height="720" fill="#f8f4ea"/>
+  <rect x="48" y="48" width="1104" height="624" fill="#ffffff" stroke="#d8d1c3" stroke-width="8"/>
+  <ellipse cx="600" cy="360" rx="390" ry="190" fill="none" stroke="#4e6f58" stroke-width="42"/>
+  <ellipse cx="600" cy="360" rx="260" ry="105" fill="none" stroke="#d8d1c3" stroke-width="36"/>
+  <text x="600" y="620" text-anchor="middle" font-family="Arial, sans-serif" font-size="48" font-weight="700" fill="#17324d">Walking Track</text>
+</svg>
