@@ -395,6 +395,111 @@ button:focus {
   margin: 0;
 }
 
+.records-section {
+  background: var(--cream);
+}
+
+.document-grid {
+  display: grid;
+  gap: 1rem;
+}
+
+.document-card {
+  display: grid;
+  gap: 0.7rem;
+  align-content: start;
+  min-height: 100%;
+  padding: 1rem;
+  background: var(--white);
+  border: 1px solid var(--gray);
+  border-top: 4px solid var(--green);
+  border-radius: 8px;
+}
+
+.document-card h3,
+.service-callout h3 {
+  margin: 0;
+  color: var(--navy);
+}
+
+.document-card p,
+.service-callout p {
+  margin: 0;
+}
+
+.service-section {
+  border-top: 1px solid var(--gray);
+  border-bottom: 1px solid var(--gray);
+}
+
+.service-panel {
+  display: grid;
+  gap: 1rem;
+}
+
+.service-callout {
+  display: grid;
+  gap: 0.85rem;
+  align-content: start;
+  padding: 1.15rem;
+  background: var(--navy);
+  color: var(--white);
+  border-radius: 8px;
+}
+
+.service-callout h3,
+.service-callout .eyebrow {
+  color: var(--white);
+}
+
+.service-callout .eyebrow {
+  color: #f4d28f;
+}
+
+.service-callout p {
+  color: rgba(255, 255, 255, 0.82);
+}
+
+.service-callout .button.secondary {
+  background: rgba(255, 255, 255, 0.94);
+  border-color: rgba(255, 255, 255, 0.7);
+}
+
+.service-links {
+  display: grid;
+  gap: 0.8rem;
+}
+
+.service-link {
+  display: grid;
+  gap: 0.2rem;
+  min-height: 96px;
+  align-content: center;
+  padding: 1rem;
+  background: var(--white);
+  border: 1px solid var(--gray);
+  border-left: 5px solid var(--green);
+  border-radius: 8px;
+  color: var(--navy);
+  text-decoration: none;
+}
+
+.service-link:hover {
+  background: #fffdf6;
+  border-left-color: var(--focus);
+  color: var(--navy);
+}
+
+.service-link span {
+  font-weight: 800;
+}
+
+.service-link small {
+  color: var(--muted);
+  font-size: 0.9rem;
+  line-height: 1.35;
+}
+
 .community-section {
   background: var(--cream);
 }
@@ -619,6 +724,20 @@ button:focus {
     grid-template-columns: repeat(3, minmax(0, 1fr));
   }
 
+  .document-grid,
+  .service-links {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .record-list {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .service-panel {
+    grid-template-columns: 0.95fr 1.45fr;
+    align-items: stretch;
+  }
+
   .community-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
@@ -669,6 +788,10 @@ button:focus {
   }
 
   .community-grid {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .document-grid {
     grid-template-columns: repeat(4, minmax(0, 1fr));
   }
 }
