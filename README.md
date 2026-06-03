@@ -86,6 +86,7 @@ This includes fees, schedules, rules, ordinances, names, phone numbers, email ad
 
 - `docs/site-map.md` - proposed site structure and navigation
 - `docs/content-inventory.csv` - starter content inventory with confirmation status
+- `docs/content-confirmation-checklist.md` - page-by-page checklist for replacing placeholders with confirmed facts
 - `docs/decision-log.md` - project decisions, approval status, and open questions
 - `docs/needs-confirmation-register.csv` - working register of facts that must be confirmed before publication
 - `docs/publishing-checklist.md` - GitHub repository and Pages publishing checklist

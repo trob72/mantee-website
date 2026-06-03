@@ -230,4 +230,4 @@ This packet does not approve:
 
 ## Recommended Next Step
 
-Assign owners for the confirmation items above, then update `docs/decision-log.md` as decisions are made.
+Assign owners for the confirmation items above, use `docs/content-confirmation-checklist.md` for page-by-page review, then update `docs/decision-log.md` as decisions are made.
