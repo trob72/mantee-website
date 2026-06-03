@@ -174,6 +174,7 @@ button:focus {
   width: 100%;
   height: 100%;
   object-fit: cover;
+  object-position: 35% center;
 }
 
 .hero {
@@ -233,6 +234,7 @@ button:focus {
 
 .draft-note {
   width: fit-content;
+  max-width: 100%;
   padding: 0.35rem 0.5rem;
   border: 1px solid rgba(255, 255, 255, 0.32);
   background: rgba(255, 255, 255, 0.12);
@@ -301,6 +303,11 @@ button:focus {
   transition: background-color 150ms ease, border-color 150ms ease, color 150ms ease;
 }
 
+.photo-hero .button,
+.image-feature .button {
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.18);
+}
+
 .button:hover {
   background: var(--navy);
   color: var(--white);
@@ -316,6 +323,11 @@ button:focus {
   background: var(--navy);
   border-color: var(--navy);
   color: var(--white);
+}
+
+.photo-hero .button.secondary {
+  background: rgba(255, 255, 255, 0.94);
+  border-color: rgba(255, 255, 255, 0.7);
 }
 
 .button.small {
@@ -417,7 +429,10 @@ button:focus {
 
 .image-feature {
   position: relative;
+  display: grid;
+  align-items: center;
   overflow: hidden;
+  min-height: 320px;
   background: var(--green);
   color: var(--white);
 }
@@ -426,7 +441,7 @@ button:focus {
   position: absolute;
   inset: 0;
   content: "";
-  background: rgba(23, 50, 77, 0.7);
+  background: linear-gradient(90deg, rgba(23, 50, 77, 0.86), rgba(23, 50, 77, 0.7));
 }
 
 .image-feature-backdrop {
@@ -438,6 +453,7 @@ button:focus {
   width: 100%;
   height: 100%;
   object-fit: cover;
+  object-position: center;
 }
 
 .image-feature-content {
@@ -580,6 +596,15 @@ button:focus {
   .photo-hero .hero {
     grid-template-columns: 1fr;
     min-height: 520px;
+  }
+
+  .photo-hero::after {
+    background: linear-gradient(90deg, rgba(23, 50, 77, 0.48), rgba(23, 50, 77, 0.62) 46%, rgba(23, 50, 77, 0.9));
+  }
+
+  .photo-hero .hero-copy {
+    justify-self: end;
+    max-width: 680px;
   }
 
   .action-grid {

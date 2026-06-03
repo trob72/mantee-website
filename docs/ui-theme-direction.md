@@ -283,14 +283,14 @@ The future WordPress site should recreate this direction with:
 
 Avoid building a design that depends on custom code that staff cannot maintain.
 
-## Next UI Iteration Recommendation
+## Current Prototype Application
 
-Before replacing placeholders, create one visual mock pass using the current references:
+The current homepage prototype applies this direction as a draft visual test:
 
-- Use the Mantee water tower drone shot as a test hero image.
-- Test a community band with a wide landscape/lake shot.
+- The Mantee water tower drone shot is used as the homepage hero image.
+- A wider aerial landscape is used as the community backdrop band.
 - Keep card placeholders for Depot, Museum, Walking Track, and Farmers Market until approved individual photos are selected.
-- Introduce heritage red/gold only as small accents in event/history areas.
-- Keep public records sections plain and highly readable.
+- Heritage red/gold remains reserved for future event/history accents.
+- Public records sections remain plain and highly readable.
 
-Do this in the prototype, then review before committing to WordPress styling.
+Both homepage photos are draft local assets and still require permission/Town approval before final public launch.

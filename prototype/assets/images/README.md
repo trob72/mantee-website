@@ -1,15 +1,19 @@
 # Prototype Image Slots
 
-Replace these placeholder files with approved Town of Mantee photos when available.
+Replace placeholder files with approved Town of Mantee photos when available.
 
 Keep the same filenames if you want the prototype to update without editing HTML.
+
+Two draft web-ready copies of local drone photography are currently used to test the homepage visual direction. They are not final public assets until photo rights and Town approval are confirmed.
 
 ## Recommended Replacements
 
 | File | Use | Suggested Photo |
 | --- | --- | --- |
-| `hero-town-backdrop.svg` | Homepage hero backdrop | Wide local civic/town scene |
-| `community-backdrop-placeholder.svg` | Homepage community backdrop band | Wide community or local landmark scene |
+| `mantee-water-tower-hero.jpg` | Homepage hero backdrop | Draft local aerial photo; confirm permission before launch |
+| `mantee-community-aerial.jpg` | Homepage community backdrop band | Draft local aerial photo; confirm permission before launch |
+| `hero-town-backdrop.svg` | Homepage hero fallback | Wide local civic/town scene |
+| `community-backdrop-placeholder.svg` | Homepage community fallback | Wide community or local landmark scene |
 | `mantee-depot-placeholder.svg` | Mantee Depot card and community page | Mantee Depot exterior or recognizable detail |
 | `heritage-museum-placeholder.svg` | Museum card and community page | Museum exterior, sign, or approved exhibit view |
 | `walking-track-placeholder.svg` | Walking Track card | Walking Track view |
@@ -34,4 +38,4 @@ Keep the same filenames if you want the prototype to update without editing HTML
 
 ## Current Status
 
-All files are placeholders until approved local photography is available.
+The two homepage backdrops are draft local photos. All remaining files are placeholders until approved local photography is available.
