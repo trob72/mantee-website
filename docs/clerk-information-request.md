@@ -256,6 +256,8 @@ Needs board/legal review? yes/no/unknown:
 Notes:
 ```
 
+When a response is received, process it internally with `docs/content-intake-template.md` and track it in `docs/content-source-log.csv` before changing prototype pages.
+
 ## Good Answers
 
 These are all useful responses:

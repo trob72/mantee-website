@@ -13,3 +13,8 @@ build/
 
 # Logs
 *.log
+
+# Unreviewed or private content intake materials
+content-intake/raw/
+content-intake/private/
+Content Intake/

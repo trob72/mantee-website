@@ -7,6 +7,8 @@ Use it before replacing `NEEDS_CONFIRMATION` text in the prototype or before bui
 Related source documents:
 
 - `docs/content-inventory.csv`
+- `docs/content-intake-template.md`
+- `docs/content-source-log.csv`
 - `docs/needs-confirmation-register.csv`
 - `docs/clerk-information-request.md`
 - `board-review/confirmation-packet-v1.md`
