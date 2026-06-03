@@ -269,6 +269,16 @@ button:focus {
   object-fit: cover;
 }
 
+.portrait-frame {
+  background: var(--navy);
+}
+
+.portrait-frame img {
+  height: 420px;
+  max-height: 68vh;
+  object-fit: contain;
+}
+
 .photo-caption {
   margin: 0.55rem 0 0;
   color: var(--muted);
