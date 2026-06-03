@@ -8,6 +8,7 @@ Related source documents:
 
 - `docs/content-inventory.csv`
 - `docs/needs-confirmation-register.csv`
+- `docs/clerk-information-request.md`
 - `board-review/confirmation-packet-v1.md`
 - `docs/decision-log.md`
 
