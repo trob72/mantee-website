@@ -2,6 +2,8 @@
 
 This starter style guide defines the public-facing design direction for the Town of Mantee website prototype and future managed WordPress site.
 
+For a reference-based visual direction from the Facebook materials and drone shots, see `docs/ui-theme-direction.md`.
+
 ## Design Goals
 
 - Professional small-town civic hub

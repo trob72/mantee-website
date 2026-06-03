@@ -92,6 +92,7 @@ This includes fees, schedules, rules, ordinances, names, phone numbers, email ad
 - `docs/requirements-summary.md` - project goals, constraints, and requirements
 - `docs/records-conventions.md` - naming and publishing conventions for public records
 - `docs/style-guide.md` - visual and editorial style direction
+- `docs/ui-theme-direction.md` - reference-based UI theme direction from local photos and social materials
 - `docs/launch-checklist.md` - readiness checklist before launch
 - `docs/maintenance-sop.md` - starter maintenance process
 
