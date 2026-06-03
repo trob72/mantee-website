@@ -10,12 +10,19 @@ The references reviewed include:
 - Memorial Highway dedication event reference.
 - Drone stills of the Mantee water tower, town crossroads, lake, and rural landscape.
 - Provided drone video file as future motion/context reference. The video was not visually reviewed in this pass because local video tooling was unavailable.
+- Nearby municipal website references: Eupora, Mathiston, Houston, and Starkville. See `docs/reference-site-review.md`.
 
 ## Working Theme
 
 **Official Civic, Rural Heritage**
 
 The site should feel like an official municipal website that still carries the texture of Mantee as a specific place.
+
+Nearby reference shorthand:
+
+**Eupora-inspired, Mantee-scaled.**
+
+That means Mantee should borrow Eupora's mix of public information, resources, and local identity, while staying simpler, calmer, and easier to maintain.
 
 It should not feel like:
 
