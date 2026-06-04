@@ -565,6 +565,7 @@ button:focus {
 
 .community-section {
   background: var(--cream);
+  padding-bottom: 1.2rem;
 }
 
 .community-grid {
@@ -736,7 +737,7 @@ button:focus {
 .site-footer {
   background: var(--navy);
   color: var(--white);
-  margin-top: 2rem;
+  margin-top: 0;
 }
 
 .footer-grid {
@@ -848,6 +849,10 @@ button:focus {
 
   .section {
     padding: 2.4rem 0;
+  }
+
+  .community-section {
+    padding-bottom: 1.2rem;
   }
 
   .hero {
