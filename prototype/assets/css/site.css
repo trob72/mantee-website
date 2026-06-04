@@ -263,6 +263,11 @@ button:focus {
   margin: 0;
 }
 
+.split figure,
+.page-title figure {
+  margin: 0;
+}
+
 .hero-photo {
   min-height: 300px;
   border: 6px solid var(--white);
@@ -286,13 +291,22 @@ button:focus {
 }
 
 .portrait-frame {
-  background: var(--navy);
+  width: min(100%, 340px);
+  min-height: auto;
+  margin-inline: auto;
+  background: var(--white);
 }
 
 .portrait-frame img {
-  height: 420px;
-  max-height: 68vh;
-  object-fit: contain;
+  height: auto;
+  min-height: 0;
+  max-height: none;
+  object-fit: cover;
+}
+
+.portrait-frame + .photo-caption {
+  max-width: 340px;
+  margin-inline: auto;
 }
 
 .photo-caption {
@@ -717,7 +731,7 @@ button:focus {
 }
 
 .page-title {
-  padding: 2rem 0 1.25rem;
+  padding: 2rem 1rem 1.25rem;
 }
 
 .page-title h1 {
@@ -793,6 +807,14 @@ button:focus {
   .photo-hero .hero-copy {
     justify-self: end;
     max-width: 680px;
+  }
+
+  .portrait-frame {
+    width: min(100%, 460px);
+  }
+
+  .portrait-frame + .photo-caption {
+    max-width: 460px;
   }
 
   .hero-primary-actions {
