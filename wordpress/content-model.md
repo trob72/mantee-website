@@ -31,7 +31,7 @@ Potential child pages later:
 - Farmers Market
 - Walking Track
 - Mantee Depot
-- Mantee Heritage & History Museum
+- Mantee History & Heritage Museum
 - Events
 
 ## Public Notice Record

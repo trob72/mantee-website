@@ -174,7 +174,7 @@ Please provide or confirm information already approved for public use for:
 - [ ] Farmers Market.
 - [ ] Walking Track.
 - [ ] Mantee Depot.
-- [ ] Mantee Heritage & History Museum.
+- [ ] Mantee History & Heritage Museum.
 - [ ] Mantee welcome sign / Natchez Trace wording or historical reference.
 - [ ] Town events.
 

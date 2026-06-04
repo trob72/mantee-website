@@ -63,7 +63,7 @@ Recommended first launch:
 - Building Permits.
 - Resident Services.
 - Community Center.
-- Community page with Farmers Market, Walking Track, Mantee Depot, Mantee Heritage & History Museum, and Events.
+- Community page with Farmers Market, Walking Track, Mantee Depot, Mantee History & Heritage Museum, and Events.
 - Contact.
 - Current approved documents and forms.
 
@@ -150,7 +150,7 @@ Recommended after launch:
 - Farmers Market schedule, location, vendor process, fees, and contact.
 - Walking Track location, hours, rules, accessibility, and maintenance contact.
 - Mantee Depot approved description, public access details, and photos.
-- Mantee Heritage & History Museum hours, contact, exhibits, governance, and photos.
+- Mantee History & Heritage Museum hours, contact, exhibits, governance, and photos.
 - Events publishing process.
 
 ### Website Administration
@@ -188,7 +188,7 @@ Recommended after launch:
 - Farmers Market.
 - Walking Track.
 - Mantee Depot.
-- Mantee Heritage & History Museum.
+- Mantee History & Heritage Museum.
 - Events or community scenes.
 - Town logo, seal, or mark if approved.
 

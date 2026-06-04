@@ -207,7 +207,7 @@ Can remain placeholder or later phase:
 - [ ] Farmers Market schedule, location, vendor process, fees, and contact.
 - [ ] Walking Track location, hours, rules, accessibility notes, and maintenance contact.
 - [ ] Mantee Depot public access details and longer history text.
-- [ ] Mantee Heritage & History Museum hours, contact, exhibit descriptions, and governance.
+- [ ] Mantee History & Heritage Museum hours, contact, exhibit descriptions, and governance.
 - [ ] Recurring events and event archive.
 
 Launch option:

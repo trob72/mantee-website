@@ -65,7 +65,7 @@ Recommended first-launch priority:
 4. Ordinances currently in force: NEEDS_CONFIRMATION.
 5. Building permit and related forms: NEEDS_CONFIRMATION.
 6. Community Center page and rental request process: NEEDS_CONFIRMATION.
-7. Community pages or sections for Farmers Market, Walking Track, Mantee Depot, and Mantee Heritage & History Museum.
+7. Community pages or sections for Farmers Market, Walking Track, Mantee Depot, and Mantee History & Heritage Museum.
 8. Historical backfile digitization backlog.
 
 This order is a planning recommendation and requires Town approval.

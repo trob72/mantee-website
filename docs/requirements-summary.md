@@ -99,7 +99,7 @@ Not included yet:
 - Building Permits page explains the confirmed process and links approved forms.
 - Resident Services page organizes routine services and reporting information.
 - Community Center page supports facility information and rental/reservation guidance once confirmed.
-- Community page highlights Farmers Market, Walking Track, Mantee Depot, Mantee Heritage & History Museum, and Events.
+- Community page highlights Farmers Market, Walking Track, Mantee Depot, Mantee History & Heritage Museum, and Events.
 - Contact page provides verified office, phone, email, hours, and routing details.
 - Every major page works on mobile devices.
 - Every downloadable record has a clear title, date, and file naming convention.

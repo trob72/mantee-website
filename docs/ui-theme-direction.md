@@ -5,7 +5,7 @@ This document translates the current reference material into a high-level visual
 The references reviewed include:
 
 - Town of Mantee Facebook profile and post screenshots.
-- Heritage and History Museum event and photo references.
+- History and Heritage Museum event and photo references.
 - Black-Eyed Pea Festival announcement reference.
 - Memorial Highway dedication event reference.
 - Drone stills of the Mantee water tower, town crossroads, lake, and rural landscape.
@@ -199,7 +199,7 @@ Use for:
 Use real photos for:
 
 - Mantee Depot.
-- Heritage and History Museum.
+- History and Heritage Museum.
 - Walking Track.
 - Farmers Market.
 - Community Center.

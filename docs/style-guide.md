@@ -98,7 +98,7 @@ Priority image needs:
 - Farmers Market
 - Walking Track
 - Mantee Depot
-- Mantee Heritage & History Museum
+- Mantee History & Heritage Museum
 - Community events
 - Streetscape or welcome sign, if approved
 

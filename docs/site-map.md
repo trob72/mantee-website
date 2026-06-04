@@ -154,7 +154,7 @@ Starter sections:
 - Farmers Market
 - Walking Track
 - Mantee Depot
-- Mantee Heritage & History Museum
+- Mantee History & Heritage Museum
 - Events
 - Local photo gallery placeholders
 

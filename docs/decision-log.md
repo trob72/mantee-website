@@ -49,7 +49,7 @@ Unknown or unapproved items must remain marked `NEEDS_CONFIRMATION`.
 | NEEDS_CONFIRMATION | Farmers Market | Schedule, location, vendor process, fees, and contact | NEEDS_CONFIRMATION | NEEDS_CONFIRMATION | Confirm whether this remains a section or becomes a child page. |
 | NEEDS_CONFIRMATION | Walking Track | Location, hours, rules, accessibility, and maintenance contact | NEEDS_CONFIRMATION | NEEDS_CONFIRMATION | Confirm photo permissions. |
 | NEEDS_CONFIRMATION | Mantee Depot | Description, public access, history text, and photos | NEEDS_CONFIRMATION | NEEDS_CONFIRMATION | Historical claims need source review. |
-| NEEDS_CONFIRMATION | Mantee Heritage & History Museum | Hours, contact, exhibits, governance, and photos | NEEDS_CONFIRMATION | NEEDS_CONFIRMATION | Confirm approved name and public information. |
+| NEEDS_CONFIRMATION | Mantee History & Heritage Museum | Hours, contact, exhibits, governance, and photos | NEEDS_CONFIRMATION | NEEDS_CONFIRMATION | Confirm approved name and public information. |
 | NEEDS_CONFIRMATION | Events | Event publishing workflow and approval owner | NEEDS_CONFIRMATION | NEEDS_CONFIRMATION | Confirm whether community-submitted events are allowed. |
 
 ## Procurement Decisions

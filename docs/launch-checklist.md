@@ -48,7 +48,7 @@ This checklist should be completed before the Town of Mantee website goes live.
 - [ ] Confirm Farmers Market details.
 - [ ] Confirm Walking Track details.
 - [ ] Confirm Mantee Depot description.
-- [ ] Confirm Mantee Heritage & History Museum description.
+- [ ] Confirm Mantee History & Heritage Museum description.
 - [ ] Confirm event publishing process.
 
 ## Design and Assets

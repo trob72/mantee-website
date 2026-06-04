@@ -26,7 +26,7 @@ The project goal is to create a low-cost, professional, and maintainable public 
 - Farmers Market
 - Walking Track
 - Mantee Depot
-- Mantee Heritage & History Museum
+- Mantee History & Heritage Museum
 - Events
 - Contact
 
