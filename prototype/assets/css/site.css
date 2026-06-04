@@ -1,12 +1,12 @@
 :root {
   --navy: #17324d;
-  --green: #4e6f58;
-  --cream: #f8f4ea;
-  --gray: #d8d1c3;
+  --green: #58745d;
+  --cream: #f7f8f5;
+  --gray: #d4d9d0;
   --text: #202124;
-  --muted: #5f666d;
+  --muted: #59636a;
   --white: #ffffff;
-  --focus: #b9822b;
+  --focus: #a57935;
   --shadow: 0 10px 30px rgba(23, 50, 77, 0.12);
   --panel: #fffaf0;
 }
@@ -369,7 +369,7 @@ button:focus {
 }
 
 .section.alt {
-  background: rgba(255, 255, 255, 0.52);
+  background: var(--white);
   border-top: 1px solid var(--gray);
   border-bottom: 1px solid var(--gray);
 }
@@ -431,7 +431,7 @@ button:focus {
   padding: 1rem 1rem 0.9rem;
   border-top: 4px solid var(--green);
   border-bottom: 1px solid var(--gray);
-  background: #fffdf6;
+  background: #fbfcf8;
 }
 
 .action-group-header .eyebrow {
@@ -530,7 +530,7 @@ button:focus {
 }
 
 .card.quiet {
-  background: #fffdf6;
+  background: #fbfcf8;
 }
 
 .records-section {
@@ -678,9 +678,9 @@ button:focus {
   display: inline-block;
   width: fit-content;
   padding: 0.25rem 0.45rem;
-  background: #fff3cf;
+  background: #f5ecd2;
   color: #5f4100;
-  border: 1px solid #e0bd62;
+  border: 1px solid #d7b869;
   font-size: 0.78rem;
   font-weight: 800;
   letter-spacing: 0;
