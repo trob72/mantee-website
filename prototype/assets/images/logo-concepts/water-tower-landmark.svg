@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" role="img" aria-labelledby="title desc">
+  <title id="title">Town of Mantee water tower landmark logo concept</title>
+  <desc id="desc">Draft logo concept using a simplified water tower landmark mark.</desc>
+  <rect width="900" height="360" fill="#f7f8f5"/>
+  <circle cx="180" cy="180" r="112" fill="#17324d"/>
+  <circle cx="180" cy="180" r="94" fill="none" stroke="#f7f8f5" stroke-width="5"/>
+  <ellipse cx="180" cy="126" rx="48" ry="27" fill="none" stroke="#ffffff" stroke-width="8"/>
+  <path d="M132 126c0 33 22 58 48 58s48-25 48-58" fill="none" stroke="#ffffff" stroke-width="8" stroke-linecap="round"/>
+  <path d="M150 192 122 272M210 192l28 80M160 222h40M145 272h70" fill="none" stroke="#ffffff" stroke-width="8" stroke-linecap="round"/>
+  <path d="M116 286c42-20 87-20 128 0" fill="none" stroke="#58745d" stroke-width="10" stroke-linecap="round"/>
+  <text x="332" y="155" font-family="Arial, sans-serif" font-size="54" font-weight="800" fill="#17324d">Town of Mantee</text>
+  <text x="334" y="205" font-family="Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="3" fill="#58745d">OFFICIAL INFORMATION</text>
+  <text x="334" y="250" font-family="Arial, sans-serif" font-size="24" fill="#59636a">Landmark direction for website header and social mark</text>
+</svg>

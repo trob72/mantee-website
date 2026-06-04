@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" role="img" aria-labelledby="title desc">
+  <title id="title">Town of Mantee depot and heritage logo concept</title>
+  <desc id="desc">Draft logo concept using a depot-style roofline and heritage-inspired badge.</desc>
+  <rect width="900" height="360" fill="#f7f8f5"/>
+  <path d="M92 136 180 76l88 60v148H92z" fill="#17324d"/>
+  <path d="M72 143 180 68l108 75" fill="none" stroke="#58745d" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="125" y="172" width="110" height="112" fill="#f7f8f5"/>
+  <path d="M145 284v-70h70v70M126 166h108M128 198h106M151 214v70M180 214v70M209 214v70" fill="none" stroke="#17324d" stroke-width="7"/>
+  <circle cx="180" cy="138" r="17" fill="#f4d28f"/>
+  <text x="330" y="148" font-family="Arial, sans-serif" font-size="54" font-weight="800" fill="#17324d">Town of Mantee</text>
+  <text x="332" y="198" font-family="Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="3" fill="#58745d">DEPOT + HERITAGE</text>
+  <text x="332" y="240" font-family="Arial, sans-serif" font-size="24" fill="#59636a">Best as a community section accent, not necessarily the main Town mark</text>
+</svg>

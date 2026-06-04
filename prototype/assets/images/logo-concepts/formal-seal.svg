@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" role="img" aria-labelledby="title desc">
+  <title id="title">Town of Mantee formal seal logo concept</title>
+  <desc id="desc">Draft formal seal concept for discussion only. Not an approved municipal seal.</desc>
+  <rect width="900" height="360" fill="#f7f8f5"/>
+  <circle cx="180" cy="180" r="114" fill="#17324d"/>
+  <circle cx="180" cy="180" r="96" fill="#f7f8f5"/>
+  <circle cx="180" cy="180" r="82" fill="none" stroke="#58745d" stroke-width="8"/>
+  <path id="topArc" d="M92 183a88 88 0 0 1 176 0" fill="none"/>
+  <path id="bottomArc" d="M268 183a88 88 0 0 1-176 0" fill="none"/>
+  <text font-family="Arial, sans-serif" font-size="19" font-weight="800" letter-spacing="2" fill="#ffffff">
+    <textPath href="#topArc" startOffset="50%" text-anchor="middle">TOWN OF MANTEE</textPath>
+  </text>
+  <text font-family="Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="2" fill="#ffffff">
+    <textPath href="#bottomArc" startOffset="50%" text-anchor="middle">MISSISSIPPI</textPath>
+  </text>
+  <ellipse cx="180" cy="151" rx="31" ry="17" fill="none" stroke="#17324d" stroke-width="6"/>
+  <path d="M149 151c0 22 14 38 31 38s31-16 31-38M160 195l-18 48M200 195l18 48M164 222h32M151 246h58" fill="none" stroke="#17324d" stroke-width="6" stroke-linecap="round"/>
+  <path d="M111 249c47-25 94-25 138 0" fill="none" stroke="#58745d" stroke-width="8" stroke-linecap="round"/>
+  <text x="332" y="150" font-family="Arial, sans-serif" font-size="54" font-weight="800" fill="#17324d">Formal Seal Direction</text>
+  <text x="334" y="200" font-family="Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="3" fill="#58745d">BOARD APPROVAL REQUIRED</text>
+  <text x="334" y="242" font-family="Arial, sans-serif" font-size="24" fill="#59636a">Use only after official mark policy and final artwork are approved</text>
+</svg>
