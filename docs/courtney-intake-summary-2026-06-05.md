@@ -4,6 +4,7 @@ Source materials reviewed:
 
 - `C:\Roberson Drone Solutions\Mantee Website\Town Info Request_CRS.docx`
 - Shared Google Drive folder: `Copies of files for website`
+- Local ZIP package: `C:\Roberson Drone Solutions\Mantee Website\drive-download-20260606T030335Z-3-001.zip`
 
 This document separates received information from final public website copy. Anything involving rules, fees, legal records, forms, or public-record interpretation should be reviewed before publication.
 
@@ -44,6 +45,8 @@ This document separates received information from final public website copy. Any
 - Ordinance files were provided in the Drive folder.
 - Website should link to approved ordinance documents without summarizing or interpreting legal effect.
 - Codification status, final ordinance list, amendment/repeal handling, and disclaimer language remain under review.
+- Ordinance number conflict found: the ordinance record lists the mobile food vending ordinance as `2301`, while the public notice file refers to `2401`.
+- Several signed ordinance PDFs are scanned/image-based and should receive OCR/accessibility cleanup later.
 
 ### Building Permits
 
@@ -54,6 +57,8 @@ This document separates received information from final public website copy. Any
 - Permit contact role: Town Clerk.
 - Best contact route: email.
 - Fees, payment instructions, supporting documents, review process, and inspection process remain under review.
+- Building permit source conflict found: Courtney's response focused on new dwelling construction, while the form also references commercial buildings added within Town limits.
+- Address consistency issue found: the permit form shows a `39744` ZIP code, while Courtney's response and other Town address information show `39751`.
 
 ### Resident Services
 
@@ -111,23 +116,27 @@ Ordinances folder:
 
 ## Download Status
 
-Automated Google Drive download was blocked for most files in the current browser session.
+Manual ZIP download completed and extracted locally.
 
-Successfully downloaded locally:
+ZIP source:
 
-- `Building Permit Application.docx`
+- `C:\Roberson Drone Solutions\Mantee Website\drive-download-20260606T030335Z-3-001.zip`
 
 Local intake path:
 
-- `C:\Users\trobe\Documents\Codex\2026-06-02\create-the-initial-planning-and-prototype\work\courtney-drive-2026-06-05`
+- `C:\Users\trobe\Documents\Codex\2026-06-02\create-the-initial-planning-and-prototype\work\courtney-drive-zip-2026-06-05`
 
-Files not yet downloaded or inspected:
+Files extracted and copied into prototype document assets:
 
+- Building permit application.
 - Community Center rental agreement PDF.
-- Letterhead DOCX.
-- Privilege license documents.
+- Privilege license application documents.
 - Current notice documents.
 - Ordinance PDFs/images/record document.
+
+File intentionally excluded from the public prototype:
+
+- `Mantee letterhead.docx` because it contains personal contact information.
 
 ## Website Update Status
 
@@ -142,6 +151,14 @@ Prototype pages updated from the Word response:
 - Resident Services.
 - Community Center.
 
+Prototype pages updated with source-document links:
+
+- Public Notices.
+- Ordinances.
+- Building Permits.
+- Resident Services.
+- Community Center.
+
 Items intentionally not published as final:
 
 - Fees.
@@ -150,7 +167,8 @@ Items intentionally not published as final:
 - Permit inspection process.
 - Personal cell numbers.
 - Staff names unless approved.
-- Source-document links until documents are reviewed and publication path is decided.
+- Source-document text summaries beyond factual labels.
+- Letterhead or private contact information.
 
 ## Remaining Questions
 
@@ -158,8 +176,12 @@ Items intentionally not published as final:
 - What current notice duration should be used before notices move to archive?
 - Which ordinance files are current, amended, repealed, or historical?
 - Should ordinance images be converted to PDFs before publication?
+- Should scanned ordinance PDFs be OCRed before final launch, or handled as a post-launch cleanup task?
 - What disclaimer language should appear on the ordinance page?
+- Which mobile food vending ordinance number is correct: `2301` or `2401`?
 - What permit fees, supporting documents, review steps, and inspection process are approved?
+- Which permit scope wording is final: dwelling-only, or dwelling plus commercial building additions?
+- What ZIP code should appear on the building permit form?
 - Should privilege license information get its own page or stay under Resident Services?
 - Should Town Facebook events be embedded, manually linked, or summarized after approval?
 - Which community-place descriptions, hours, photos, and rules are approved?

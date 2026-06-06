@@ -684,6 +684,13 @@ button:focus {
   font-size: 1.25rem;
 }
 
+.record-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+  margin-top: 0.35rem;
+}
+
 .meta {
   color: var(--muted);
   font-size: 0.92rem;
