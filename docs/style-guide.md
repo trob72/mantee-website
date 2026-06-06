@@ -44,18 +44,6 @@ Guidelines:
 - Use large tap targets for mobile.
 - Do not use decorative typefaces for official information.
 
-## Logo And Identity
-
-The prototype currently uses a draft Depot-based badge extracted from Town letterhead.
-
-Guidelines:
-
-- Use the badge as a civic identity marker in the site header and browser icon.
-- Treat the "Epicenter of the Natchez Trace" wording as `NEEDS_CONFIRMATION` until the Town confirms it.
-- Do not treat the extracted PNG as final production artwork.
-- Before launch, create or obtain a clean transparent/vector version for WordPress, documents, favicon, and social sharing.
-- Consider a simplified companion icon for very small sizes where the full badge becomes hard to read.
-
 ## Voice and Tone
 
 Voice:

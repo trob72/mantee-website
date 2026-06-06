@@ -17,8 +17,6 @@ Draft web-ready copies of local photography are currently used to test the visua
 | `mantee-walking-track.jpg` | Walking Track card | Draft local photo; confirm location, rules, and permission before launch |
 | `mantee-community-center-sign.jpg` | Community Center page | Draft local photo; confirm facility details and permission before launch |
 | `mantee-welcome-natchez-trace-sign.jpg` | Community page local identity photo | Draft local photo; confirm sign wording/history and permission before launch |
-| `mantee-logo-badge.png` | Site header brand mark | Draft web copy extracted from Town letterhead; confirm official logo approval before launch |
-| `mantee-logo-icon.png` | Browser tab/favicon test | Draft icon copy extracted from Town letterhead; simplified icon may be needed for final launch |
 | `hero-town-backdrop.svg` | Homepage hero fallback | Wide local civic/town scene |
 | `community-backdrop-placeholder.svg` | Homepage community fallback | Wide community or local landmark scene |
 | `mantee-depot-placeholder.svg` | Mantee Depot card and community page | Mantee Depot exterior or recognizable detail |
@@ -46,5 +44,3 @@ Draft web-ready copies of local photography are currently used to test the visua
 ## Current Status
 
 Several homepage and community images are draft local photos. Farmers Market and generic fallback images remain placeholders until approved local photography is available.
-
-The current header logo is a draft extracted from Town letterhead. It should be cleaned up or recreated as final transparent/vector artwork before production launch.
