@@ -12,7 +12,7 @@ Draft web-ready copies of local photography are currently used to test the visua
 | --- | --- | --- |
 | `mantee-water-tower-hero.jpg` | Homepage hero backdrop | Draft local aerial photo; confirm permission before launch |
 | `mantee-community-aerial.jpg` | Homepage community backdrop band | Draft local aerial photo; confirm permission before launch |
-| `mantee-depot-marker.jpg` | Mantee Depot card and community page | Draft local photo; confirm historical text and permission before launch |
+| `mantee-depot-marker.jpg` | Mantee Depot card and community page | Drive intake photo from June 29, 2026 |
 | `mantee-heritage-museum-sign.jpg` | Museum card and community page | Draft local photo; confirm approved public name and permission before launch |
 | `mantee-walking-track.jpg` | Walking Track card | Draft local photo; confirm location, rules, and permission before launch |
 | `mantee-community-center-sign.jpg` | Community Center page | Draft local photo; confirm facility details and permission before launch |
@@ -22,7 +22,11 @@ Draft web-ready copies of local photography are currently used to test the visua
 | `mantee-depot-placeholder.svg` | Mantee Depot card and community page | Mantee Depot exterior or recognizable detail |
 | `heritage-museum-placeholder.svg` | Museum card and community page | Museum exterior, sign, or approved exhibit view |
 | `walking-track-placeholder.svg` | Walking Track card | Walking Track view |
-| `farmers-market-placeholder.svg` | Farmers Market card | Market, vendor tables, or approved event view |
+| `mantee-farmers-market-sign.jpg` | Mantee Marketplace card and homepage highlight | Drive intake photo from June 29, 2026 |
+| `mantee-marketplace-poster.jpg` | Mantee Marketplace flyer link | Drive intake graphic from June 29, 2026 |
+| `mantee-museum-interior.jpg` | Museum highlight and community page | Drive intake photo from June 29, 2026 |
+| `mantee-museum-entry-interior.jpg` | Museum alternate photo | Drive intake photo from June 29, 2026 |
+| `farmers-market-placeholder.svg` | Farmers Market fallback | Replaced in active prototype by Mantee Marketplace photo |
 | `community-center-placeholder.svg` | Community Center page | Community Center exterior or approved interior |
 | `photo-placeholder.svg` | Generic fallback | Keep as backup placeholder |
 
@@ -43,4 +47,4 @@ Draft web-ready copies of local photography are currently used to test the visua
 
 ## Current Status
 
-Several homepage and community images are draft local photos. Farmers Market and generic fallback images remain placeholders until approved local photography is available.
+Several homepage and community images are draft local photos. Farmers Market / Mantee Marketplace now uses the June 29 Drive intake photo and flyer.

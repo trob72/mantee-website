@@ -1,6 +1,6 @@
 # Static Prototype
 
-This folder contains the placeholder-based static prototype for the Town of Mantee website.
+This folder contains the static prototype for the Town of Mantee website.
 
 ## Open Directly
 
@@ -22,12 +22,11 @@ http://127.0.0.1:8088/
 
 ## Prototype Notes
 
-- All unknown facts remain marked `NEEDS_CONFIRMATION`.
-- Local photography is represented by placeholder images.
+- Public-facing pages should not show internal confirmation labels or placeholder wording.
+- Missing or unresolved inputs are tracked in `../board-review/internal-missing-inputs.md`.
 - The prototype preserves the intended navigation and page structure.
 - The future production site is expected to be managed WordPress.
-- `homepage-layout-concepts.html` is a separate non-final homepage shortcut/button layout board and is not part of the main site navigation.
-- `header-concepts.html` is a separate non-final logo/header direction board and is not part of the main site navigation.
+- Earlier concept-only review pages have been moved to `../board-review/prototype-concepts/`.
 
 ## Photo Replacement
 
