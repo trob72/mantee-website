@@ -83,6 +83,7 @@ button:focus {
   display: inline-flex;
   align-items: center;
   gap: 0.75rem;
+  min-width: 0;
   color: var(--white);
   text-decoration: none;
 }
@@ -99,19 +100,27 @@ button:focus {
 
 .brand-text {
   display: grid;
+  min-width: 0;
   line-height: 1.1;
 }
 
 .brand-text strong {
+  overflow: hidden;
   font-size: 1rem;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 .brand-text span {
+  overflow: hidden;
   color: rgba(255, 255, 255, 0.78);
   font-size: 0.8rem;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 .nav-toggle {
+  flex: 0 0 auto;
   border: 1px solid rgba(255, 255, 255, 0.45);
   background: transparent;
   color: var(--white);
@@ -836,6 +845,22 @@ button:focus {
   margin-top: 0.35rem;
 }
 
+.notice-text {
+  display: grid;
+  gap: 0.65rem;
+  margin-top: 0.35rem;
+  color: var(--text);
+}
+
+.notice-text p {
+  margin: 0;
+}
+
+.notice-text .notice-source {
+  color: var(--muted);
+  font-size: 0.92rem;
+}
+
 .meta {
   color: var(--muted);
   font-size: 0.92rem;
@@ -1027,6 +1052,23 @@ button:focus {
   }
 }
 
+@media (max-width: 719px) {
+  .topbar {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+  }
+
+  .brand {
+    max-width: 100%;
+  }
+
+  .nav-toggle {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
+
 @media (min-width: 980px) {
   .topbar {
     padding-top: 1.25rem;
@@ -1122,4 +1164,8 @@ button:focus {
   .site-header {
     position: static;
   }
+}
+
+.record-list.notice-list {
+  grid-template-columns: 1fr;
 }
